@@ -20,9 +20,9 @@ int main() {
     gametext.setCharacterSize(70);
     gametext.setFillColor(sf::Color::White);
     gametext.setPosition(150, 250);
-	font.loadFromFile("C:/Users/asmaa/source/repos/Project3/x64/Debug/PressStart2P-Regular.ttf");
-    background.loadFromFile("C:/Users/asmaa/source/repos/Project3/x64/Debug/background.jpg");
-    button.loadFromFile("C:/Users/asmaa/source/repos/Project3/x64/Debug/button.jpg");
+	font.loadFromFile("C:/Users/YourUsername/source/repos/Project3/x64/Debug/PressStart2P-Regular.ttf");
+    background.loadFromFile("C:/Users/YourUsername/source/repos/Project3/x64/Debug/background.jpg");
+    button.loadFromFile("C:/Users/YourUsername/source/repos/Project3/x64/Debug/button.jpg");
     buttonapply.setScale(0.5f, 0.5f);
       // makes it twice as big
 	buttonapply.setTexture(button);
